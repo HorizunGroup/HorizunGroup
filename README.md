@@ -1,12 +1,12 @@
 <div align="center">
 
 <a href="https://horizunhub.com">
-  <img src="https://horizunhub.com/brand/og-image.png" alt="Horizun Group — BIM, datos e IA para construcción" width="640">
+  <img src="https://horizunhub.com/brand/og-image.png" alt="Horizun Group — BIM, data and AI for construction" width="640">
 </a>
 
 # Horizun Group
 
-**BIM, datos e IA para la construcción.** Operando desde 2018 · 500+ profesionales formados en 7 países de LATAM.
+**BIM, data & AI for construction.** Building since 2018 · 500+ professionals trained across 7 countries in Latin America.
 
 [![Horizun Hub](https://img.shields.io/badge/Horizun_Hub-horizunhub.com-0A66C2?style=for-the-badge)](https://horizunhub.com)
 [![PowerBIM Online](https://img.shields.io/badge/PowerBIM_Online-pbim.horizunhub.com-1F6FEB?style=for-the-badge)](https://pbim.horizunhub.com)
@@ -16,42 +16,42 @@
 
 ---
 
-## 👋 Quiénes somos
+## 👋 Who we are
 
-Somos un equipo AEC que construye el **arsenal que nosotros mismos usamos en obra**: apps propias, tableros de Power BI conectados al modelo, automatización con IA y formación aplicada. Nada de teoría — todo sale de proyectos reales de construcción en Latinoamérica.
+We're an AEC team that builds **the toolkit we use on our own jobsites**: in-house apps, Power BI dashboards wired straight to the model, AI-driven automation, and training that comes from practice. No theory — all of it comes out of real construction projects across Latin America.
 
-Todo vive en **[Horizun Hub](https://horizunhub.com)**: un solo plan, todo incluido.
+It all lives in **[Horizun Hub](https://horizunhub.com)**: one plan, everything included.
 
-## 🧩 El ecosistema
+## 🧩 The ecosystem
 
-| Módulo | Qué es |
+| Module | What it is |
 |---|---|
-| 🛠️ **Apps** | PowerBIM Exporter (Revit y Civil 3D), PowerBIM Online, BuildMotion, CopyToExcel, Family Browser |
-| 🎓 **Academia** | Curso PowerBIM + IA, diplomado de liderazgo BIM, grabaciones y rutas guiadas |
-| 📊 **Power BI** | Plantillas `.pbit`, dashboards y visual propio de modelo 3D dentro de Power BI |
-| 📐 **Recursos** | Cuantificación (Revit + Navisworks), ejemplos 4D/5D, familias y plantillas |
-| 🤖 **IA & Automatización** | Flujos con IA aplicados a modelado, auditoría y datos de obra |
-| 🧑‍🏫 **2h/mes con un experto** | No es un foro ni un chatbot: sesiones reales sobre *tu* proyecto |
+| 🛠️ **Apps** | PowerBIM Exporter (Revit & Civil 3D), PowerBIM Online, BuildMotion, CopyToExcel, Family Browser |
+| 🎓 **Academy** | PowerBIM + AI course, BIM leadership program, recordings and guided learning paths |
+| 📊 **Power BI** | `.pbit` templates, dashboards, and our own 3D model viewer running inside Power BI |
+| 📐 **Resources** | Quantity takeoff (Revit + Navisworks), 4D/5D examples, families and templates |
+| 🤖 **AI & Automation** | AI workflows applied to modeling, model auditing and jobsite data |
+| 🧑‍🏫 **2h/month with an expert** | Not a forum, not a chatbot: real sessions about *your* project |
 
-## ⭐ Proyectos abiertos
+## ⭐ Open source
 
-| Repo | Descripción |
+| Repo | Description |
 |---|---|
-| [**awesome-bim-latam**](https://github.com/HorizunGroup/awesome-bim-latam) | Lista curada de herramientas, APIs y recursos open source para BIM. En español. |
+| [**awesome-bim-latam**](https://github.com/HorizunGroup/awesome-bim-latam) | Curated BIM tools, APIs and open source resources — every entry proven on a real project. |
 
-> Más recursos abiertos en camino. Dale ⭐ para no perdértelos.
+> More open resources on the way. Star us so you don't miss them.
 
-## 🌎 Dónde estamos
+## 🌎 Where we work
 
-México · Chile · **Colombia (sede)** · Argentina · Perú · República Dominicana · Venezuela
+Mexico · Chile · **Colombia (HQ)** · Argentina · Peru · Dominican Republic · Venezuela
 
-## 📬 Hablemos
+## 📬 Get in touch
 
 - 🌐 Web: **[horizunhub.com](https://horizunhub.com)**
-- ▶️ YouTube: **[BIM Para Todos](https://www.youtube.com/@BIMParaTodos.HorizunAEC)**
+- ▶️ YouTube: **[BIM Para Todos](https://www.youtube.com/@BIMParaTodos.HorizunAEC)** *(in Spanish)*
 
 <div align="center">
 
-<sub>Hecho con 🧱 y datos por Horizun Group · LATAM</sub>
+<sub>Built with 🧱 and data by Horizun Group · LATAM</sub>
 
 </div>
